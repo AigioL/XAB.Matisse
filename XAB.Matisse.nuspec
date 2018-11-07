@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
   <metadata>
     <id>XAB.Matisse</id>
-    <version>1.0.0.181107</version>
+    <version>0.5.1.181107</version>
     <title>Xamarin Android Binding Library - Matisse</title>
     <authors>https://github.com/AigioL</authors>
     <owners>https://github.com/AigioL</owners>
